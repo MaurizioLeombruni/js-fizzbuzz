@@ -41,6 +41,7 @@ body{
 
 .square-fizz{
     display: flex;
+    text-align: center;
     align-items: center;
     justify-content: center;
     height: 100px;
@@ -53,6 +54,7 @@ body{
 
 .square-buzz{
     display: flex;
+    text-align: center;
     align-items: center;
     justify-content: center;
     height: 100px;
@@ -65,6 +67,7 @@ body{
 
 .square-both{
     display: flex;
+    text-align: center;
     align-items: center;
     justify-content: center;
     height: 100px;
