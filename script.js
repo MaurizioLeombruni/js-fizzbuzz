@@ -1,6 +1,6 @@
 let squareContainer = document.querySelector(".square-container");
 
-for(let i=0; i<100; i++){
+for(let i=0; i<=100; i++){
 
 //Controlliamo che il numero sia divisibile per 5. Se lo è, si controlla se è anche divisibile per 3, scrivendo FizzBuzz nel caso, scrivendo Buzz altrimenti.
 //Se il numero non è divisibile per 5, controlliamo se sia almeno divisibile per 3. Se lo è, scriviamo Fizz, altrimenti scriviamo semplicemente il numero.
